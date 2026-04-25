@@ -2,7 +2,7 @@
 Free TikTok Live interactive roulette for streamers. Real-time gift, follow, and chat events trigger actions with OBS overlay support.
 
 ## 📦 Download
-👉 https://github.com/네아이디/tiktok-free-roulette/releases/latest
+👉 https://github.com/sangyapyap-cell/tiktok-free-roulette/releases/latest
 
 # 🎰 TikTok Live Interactive Roulette
 
